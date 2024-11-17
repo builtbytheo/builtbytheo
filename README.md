@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/builtbytheo/builtbytheo/output/snake.svg" alt="Snake animation" />
+<img src="./assets/snake.svg" alt="Snake eating some GitHub contributions." />
 
 <h1 align="left">Hello 👋 I'm Theo Snyman</h1>
 
